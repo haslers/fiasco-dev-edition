@@ -31,7 +31,7 @@ Relationships
 1 Fraternity/Sorority siblings
 2 Clandestine Collborators
 3 Mutual keepers of ominous secret
-4 Secret socienty members
+4 Secret society members
 5 IT Security Officer & Hacker
 6 Hacking Crew
 6 Community
@@ -120,7 +120,7 @@ Locations
 3 the office showers
 4 the rooftop
 5 the watercooler
-6 the fussball table
+6 the foosball table
 4 Out of office
 1 Team retreat
 2 the local hacker space
@@ -161,7 +161,7 @@ Objects
     6 a ransomware virus
   2 Conflict-inducing
     1 the dead body in the server room  
-    2 an anti-divesity manifesto
+    2 an anti-diversity manifesto
     3 a post-it dropped from the kanban board
     4 a clean code book with one page missing
     5 motivational posters
