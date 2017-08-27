@@ -1,4 +1,4 @@
-##Relationships
+## Relationships
 ### 1. Family & friends
 1. Siblings  
 2. Spouses  
@@ -196,10 +196,6 @@
 
 
 
-Uncategorized
-your first vacation in years
-    an Apple I
-    the key to the server room
 
 ## Extras
 ### Relationships: 
@@ -232,3 +228,6 @@ your first vacation in years
     5. a vial of poison
     
 * a failing company
+* your first vacation in years
+* an Apple I
+* the key to the server room
