@@ -4,7 +4,7 @@ Fiasco is a collaborative storytelling game for 3 to 5 players. Information abou
 
 This is a Fiasco playset, set in the world of developing "high-quality" software under pressure.
 
-Development was initiated by [Toni Rheker](https://github.com/offbyoni) during a session at [SoCraTes 2017] (https://www.socrates-conference.de/). 
+Development was initiated by [Toni Rheker](https://github.com/offbyoni) during a session at [SoCraTes 2017](https://www.socrates-conference.de/). 
 
 If you were a collaborator at this session and would like to see your name here, please drop me a line. 
 
